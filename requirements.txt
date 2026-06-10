@@ -1,0 +1,6 @@
+numpy>=2.4,<3
+pandas>=3.0,<4
+matplotlib>=3.10,<4
+seaborn>=0.13,<1
+pytest>=9.0,<10
+jupyterlab>=4.5,<5
