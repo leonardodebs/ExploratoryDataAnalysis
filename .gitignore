@@ -3,8 +3,6 @@
 
 # Artefatos gerados
 data/cloudtrail_sample.csv
-reports/*.png
-reports/summary.json
 
 # Python
 __pycache__/

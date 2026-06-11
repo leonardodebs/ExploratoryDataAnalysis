@@ -1,0 +1,8 @@
+{
+  "total_events": 1000,
+  "error_rate_pct": 20.3,
+  "top_api_call": "DescribeInstances",
+  "peak_hour": 13,
+  "unique_ips": 33,
+  "most_common_error": "AccessDenied"
+}
