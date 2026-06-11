@@ -1,4 +1,4 @@
-# projeto1-eda — Análise Exploratória de Logs AWS CloudTrail
+# Análise Exploratória de Logs AWS CloudTrail
 
 Projeto de **EDA (Exploratory Data Analysis)** sobre 1000 eventos sintéticos simulando
 logs do AWS CloudTrail — parte do meu portfólio de estudos de IA aplicada a infraestrutura.
